@@ -1,0 +1,7 @@
+{
+  "id": "sqli-03",
+  "name": "Blind Time-Based Injection in Search Sort",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

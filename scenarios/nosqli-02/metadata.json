@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-02",
+  "name": "Aggregation Pipeline Stage Injection",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-13",
+  "name": "Query-by-Example Injection",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

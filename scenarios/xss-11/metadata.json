@@ -1,0 +1,7 @@
+{
+  "id": "xss-11",
+  "name": "Shadow DOM Sink Exposure XSS",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

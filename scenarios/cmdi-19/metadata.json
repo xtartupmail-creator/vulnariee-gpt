@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-19",
+  "name": "Blind Command Injection with Side-channel",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "xss-02",
+  "name": "DOM XSS Through URL Fragment Router",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

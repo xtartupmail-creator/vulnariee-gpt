@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-16",
+  "name": "Origin Header Validation Bypass",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

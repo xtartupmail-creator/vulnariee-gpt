@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-20",
+  "name": "Command Injection via Archive Handler",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

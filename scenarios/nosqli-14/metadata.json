@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-14",
+  "name": "Pipeline Lookup Cross-Collection Abuse",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

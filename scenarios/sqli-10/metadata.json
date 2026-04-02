@@ -1,0 +1,7 @@
+{
+  "id": "sqli-10",
+  "name": "Injection in Multi-Tenant Policy Clause",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

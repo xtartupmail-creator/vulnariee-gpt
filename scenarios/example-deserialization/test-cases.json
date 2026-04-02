@@ -1,0 +1,17 @@
+[
+  {"id":"TC-01","title":"Nested object graph with recursive references","complexity":"advanced"},
+  {"id":"TC-02","title":"Polyglot payload crossing serializer boundaries","complexity":"advanced"},
+  {"id":"TC-03","title":"Gadget chain variant with partial class availability","complexity":"advanced"},
+  {"id":"TC-04","title":"Type confusion via permissive casting","complexity":"advanced"},
+  {"id":"TC-05","title":"Cross-tenant cache poisoning precondition","complexity":"advanced"},
+  {"id":"TC-06","title":"Transaction timing window with delayed commit","complexity":"advanced"},
+  {"id":"TC-07","title":"Alternate content-type fallback parser path","complexity":"advanced"},
+  {"id":"TC-08","title":"Secondary decode stage mismatch","complexity":"advanced"},
+  {"id":"TC-09","title":"Compressed payload with mixed framing","complexity":"advanced"},
+  {"id":"TC-10","title":"Unicode normalization differential behavior","complexity":"advanced"},
+  {"id":"TC-11","title":"Signed envelope with stale key rollover","complexity":"advanced"},
+  {"id":"TC-12","title":"Message replay combined with nonce desync","complexity":"advanced"},
+  {"id":"TC-13","title":"Queue backpressure affecting validation order","complexity":"advanced"},
+  {"id":"TC-14","title":"Out-of-band metadata merge confusion","complexity":"advanced"},
+  {"id":"TC-15","title":"Reference resolver path traversal edge case","complexity":"advanced"}
+]

@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-11",
+  "name": "Security Header Duplication Race",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

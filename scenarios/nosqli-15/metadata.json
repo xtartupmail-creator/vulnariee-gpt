@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-15",
+  "name": "Document-Level ACL Bypass via Selector Merge",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

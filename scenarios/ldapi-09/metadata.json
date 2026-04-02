@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-09",
+  "name": "Group Membership Filter Abuse",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sqli-14",
+  "name": "Injection in Audit Replay Query",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

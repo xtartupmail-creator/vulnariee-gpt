@@ -1,0 +1,7 @@
+{
+  "id": "gqli-10",
+  "name": "Persisted Query Tampering Injection",
+  "category": "GraphQLi",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

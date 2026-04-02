@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-06",
+  "name": "Escaped Character Normalization Bypass",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

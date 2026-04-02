@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-01",
+  "name": "Duplicate Parameter Ambiguity Injection",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

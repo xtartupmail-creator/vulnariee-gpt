@@ -1,0 +1,7 @@
+{
+  "id": "xss-10",
+  "name": "XSS in Client-Side Search Highlighting",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

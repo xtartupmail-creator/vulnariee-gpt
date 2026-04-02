@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-04",
+  "name": "Regex DoS-Assisted Selector Abuse",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

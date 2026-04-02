@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-03",
+  "name": "Attribute Selector Injection",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

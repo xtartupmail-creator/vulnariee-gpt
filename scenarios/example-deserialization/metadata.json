@@ -1,0 +1,7 @@
+{
+  "id": "example-deserialization",
+  "name": "Example Unsafe Deserialization (Placeholder)",
+  "category": "serialization",
+  "difficulty": "advanced",
+  "notes": "Placeholder scenario to validate base framework only. Replace with your real benchmark scenario."
+}

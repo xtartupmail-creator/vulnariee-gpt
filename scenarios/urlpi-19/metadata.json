@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-19",
+  "name": "URL Parameter Cache Key Poisoning",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

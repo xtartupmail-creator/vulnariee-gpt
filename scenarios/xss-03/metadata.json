@@ -1,0 +1,7 @@
+{
+  "id": "xss-03",
+  "name": "Mutation XSS in Sanitizer Bypass Path",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

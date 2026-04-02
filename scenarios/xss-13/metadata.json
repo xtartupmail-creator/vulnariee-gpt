@@ -1,0 +1,7 @@
+{
+  "id": "xss-13",
+  "name": "Stored XSS in Activity Timeline Diff Viewer",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

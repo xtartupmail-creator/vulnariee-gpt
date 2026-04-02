@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-20",
+  "name": "API Gateway Query Rewrite Injection",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

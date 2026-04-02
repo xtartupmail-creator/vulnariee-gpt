@@ -1,0 +1,7 @@
+{
+  "id": "xss-04",
+  "name": "Template Injection to Client-Side XSS",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

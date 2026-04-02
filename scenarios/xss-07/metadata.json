@@ -1,0 +1,7 @@
+{
+  "id": "xss-07",
+  "name": "XSS via Third-Party Widget PostMessage",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

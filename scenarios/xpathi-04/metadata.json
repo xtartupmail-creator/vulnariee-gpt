@@ -1,0 +1,7 @@
+{
+  "id": "xpathi-04",
+  "name": "Boolean XPath Blind Injection",
+  "category": "XPATH Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

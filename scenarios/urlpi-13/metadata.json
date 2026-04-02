@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-13",
+  "name": "Tenant Parameter Boundary Bypass",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

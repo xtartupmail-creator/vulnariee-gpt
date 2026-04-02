@@ -1,0 +1,7 @@
+{
+  "id": "xss-06",
+  "name": "Polyglot XSS in SVG Upload Preview",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

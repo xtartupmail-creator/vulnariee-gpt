@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-12",
+  "name": "Command Injection in Log Rotation Tool",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

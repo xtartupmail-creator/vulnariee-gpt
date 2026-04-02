@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-17",
+  "name": "Synchronization Endpoint LDAPi",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

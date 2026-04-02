@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-11",
+  "name": "Search Scope Escalation Injection",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "gqli-15",
+  "name": "DataLoader Cache Poisoning Injection",
+  "category": "GraphQLi",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

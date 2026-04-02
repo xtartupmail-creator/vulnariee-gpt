@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-07",
+  "name": "JWT Header Algorithm Confusion",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

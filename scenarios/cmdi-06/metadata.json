@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-06",
+  "name": "Pipeline Injection in Utility Wrapper",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

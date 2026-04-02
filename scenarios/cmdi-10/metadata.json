@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-10",
+  "name": "Escaping Failure in PowerShell Adapter",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

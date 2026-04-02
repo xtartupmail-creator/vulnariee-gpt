@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-02",
+  "name": "Parameter Pollution Across Layers",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

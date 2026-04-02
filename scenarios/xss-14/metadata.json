@@ -1,0 +1,7 @@
+{
+  "id": "xss-14",
+  "name": "XSS with UTF-16 Surrogate Encoding Edge",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

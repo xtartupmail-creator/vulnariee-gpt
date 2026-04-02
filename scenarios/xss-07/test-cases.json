@@ -1,0 +1,377 @@
+[
+  {
+    "id": "TC-01",
+    "title": "Advanced path 1",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-02",
+    "title": "Advanced path 2",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-03",
+    "title": "Advanced path 3",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-04",
+    "title": "Advanced path 4",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-05",
+    "title": "Advanced path 5",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-06",
+    "title": "Advanced path 6",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-07",
+    "title": "Advanced path 7",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-08",
+    "title": "Advanced path 8",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-09",
+    "title": "Advanced path 9",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-10",
+    "title": "Advanced path 10",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-11",
+    "title": "Advanced path 11",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-12",
+    "title": "Advanced path 12",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-13",
+    "title": "Advanced path 13",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-14",
+    "title": "Advanced path 14",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-15",
+    "title": "Advanced path 15",
+    "objective": "Validate complex preconditions, state transitions, and detection telemetry.",
+    "prerequisites": [
+      "Scenario seeded",
+      "Audit logging enabled",
+      "Isolated local environment"
+    ],
+    "steps": [
+      "Prepare crafted input set",
+      "Execute multi-step request flow",
+      "Capture side effects and traces"
+    ],
+    "expectedSignals": [
+      "Application behavior matches scenario",
+      "Telemetry captures key indicators"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "xss",
+      "multi-step",
+      "stateful"
+    ]
+  }
+]

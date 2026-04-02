@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-11",
+  "name": "Array Filter Injection in Bulk Edit",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "xss-05",
+  "name": "Reflected XSS in Error Correlation View",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-02",
+  "name": "Host Header Poisoning Chain",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

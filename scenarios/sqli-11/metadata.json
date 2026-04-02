@@ -1,0 +1,7 @@
+{
+  "id": "sqli-11",
+  "name": "CTE Injection via Analytics Endpoint",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

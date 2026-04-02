@@ -1,0 +1,7 @@
+{
+  "id": "xss-12",
+  "name": "XSS Through JSONP Legacy Endpoint",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

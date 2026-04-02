@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-19",
+  "name": "Directory Sort Control Injection",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

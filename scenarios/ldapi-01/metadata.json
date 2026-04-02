@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-01",
+  "name": "Authentication Filter Injection",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

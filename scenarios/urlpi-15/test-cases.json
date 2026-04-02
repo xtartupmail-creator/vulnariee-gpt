@@ -1,0 +1,502 @@
+[
+  {
+    "id": "TC-01",
+    "title": "Advanced validation path 1",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-02",
+    "title": "Advanced validation path 2",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-03",
+    "title": "Advanced validation path 3",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-04",
+    "title": "Advanced validation path 4",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-05",
+    "title": "Advanced validation path 5",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-06",
+    "title": "Advanced validation path 6",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-07",
+    "title": "Advanced validation path 7",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-08",
+    "title": "Advanced validation path 8",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-09",
+    "title": "Advanced validation path 9",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-10",
+    "title": "Advanced validation path 10",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-11",
+    "title": "Advanced validation path 11",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-12",
+    "title": "Advanced validation path 12",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-13",
+    "title": "Advanced validation path 13",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-14",
+    "title": "Advanced validation path 14",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-15",
+    "title": "Advanced validation path 15",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-16",
+    "title": "Advanced validation path 16",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-17",
+    "title": "Advanced validation path 17",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-18",
+    "title": "Advanced validation path 18",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-19",
+    "title": "Advanced validation path 19",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  },
+  {
+    "id": "TC-20",
+    "title": "Advanced validation path 20",
+    "objective": "Validate parser boundaries, trust-chain handling, and telemetry under complex request flows.",
+    "prerequisites": [
+      "Isolated lab mode enabled",
+      "Synthetic dataset loaded",
+      "Full request tracing enabled"
+    ],
+    "steps": [
+      "Seed scenario state",
+      "Execute crafted multi-step flow",
+      "Validate behavior and logs"
+    ],
+    "expectedSignals": [
+      "Deterministic scenario outcome",
+      "Security telemetry captured"
+    ],
+    "complexity": "advanced",
+    "tags": [
+      "urlpi",
+      "multi-step",
+      "stateful"
+    ]
+  }
+]

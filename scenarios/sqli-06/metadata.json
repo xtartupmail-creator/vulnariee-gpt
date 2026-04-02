@@ -1,0 +1,7 @@
+{
+  "id": "sqli-06",
+  "name": "Injection Through Dynamic Table Selector",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

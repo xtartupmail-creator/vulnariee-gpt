@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-12",
+  "name": "NoSQLi Through GraphQL Resolver Bridge",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

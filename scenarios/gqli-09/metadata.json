@@ -1,0 +1,7 @@
+{
+  "id": "gqli-09",
+  "name": "Field-Level Auth Bypass Injection",
+  "category": "GraphQLi",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

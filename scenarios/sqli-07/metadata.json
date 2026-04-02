@@ -1,0 +1,7 @@
+{
+  "id": "sqli-07",
+  "name": "Lateral Injection via Pagination Cursor",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

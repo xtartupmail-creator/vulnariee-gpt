@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-19",
+  "name": "Header Canonicalization Bypass",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-06",
+  "name": "Map-Reduce Function Injection",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

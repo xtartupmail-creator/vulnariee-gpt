@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-13",
+  "name": "Multi-tenant Context Command Drift",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

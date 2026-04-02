@@ -1,0 +1,7 @@
+{
+  "id": "sqli-15",
+  "name": "Injection via ORM Raw Fragment Escape",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

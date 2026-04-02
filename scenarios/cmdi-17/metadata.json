@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-17",
+  "name": "Configuration-Driven Command Taint",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

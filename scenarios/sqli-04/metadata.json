@@ -1,0 +1,7 @@
+{
+  "id": "sqli-04",
+  "name": "JSON-to-SQL Translation Injection",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-18",
+  "name": "Cross-tenant Directory Pivot Injection",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

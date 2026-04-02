@@ -1,0 +1,7 @@
+{
+  "id": "sqli-09",
+  "name": "Stored Procedure Parameter Smuggling",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

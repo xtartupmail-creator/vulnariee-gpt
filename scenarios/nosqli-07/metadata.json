@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-07",
+  "name": "BSON Type Confusion Query Bypass",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

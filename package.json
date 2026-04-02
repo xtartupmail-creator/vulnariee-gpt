@@ -1,0 +1,14 @@
+{
+  "name": "vulnariee-benchmark-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local benchmark harness for authorized web vulnerability testing.",
+  "scripts": {
+    "start": "node src/server.js",
+    "new:scenario": "node scripts/new-scenario.js",
+    "check:scenarios": "node scripts/check-scenarios.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

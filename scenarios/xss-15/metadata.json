@@ -1,0 +1,7 @@
+{
+  "id": "xss-15",
+  "name": "Service Worker Script Injection-to-XSS",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

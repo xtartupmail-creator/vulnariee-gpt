@@ -1,0 +1,7 @@
+{
+  "id": "ldapi-05",
+  "name": "Logical Operator Precedence Abuse",
+  "category": "LDAP Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

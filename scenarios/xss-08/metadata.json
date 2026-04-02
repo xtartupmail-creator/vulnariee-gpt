@@ -1,0 +1,7 @@
+{
+  "id": "xss-08",
+  "name": "Trusted Types Bypass Regression Case",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

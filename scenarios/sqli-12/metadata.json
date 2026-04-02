@@ -1,0 +1,7 @@
+{
+  "id": "sqli-12",
+  "name": "Order-By Expression Injection",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

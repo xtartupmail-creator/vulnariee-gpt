@@ -1,0 +1,7 @@
+{
+  "id": "xss-09",
+  "name": "CSP Nonce Reuse Assisted XSS",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

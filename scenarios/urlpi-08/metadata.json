@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-08",
+  "name": "Sort/Filter Parameter Injection",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

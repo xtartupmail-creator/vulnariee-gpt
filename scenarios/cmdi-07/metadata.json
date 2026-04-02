@@ -1,0 +1,7 @@
+{
+  "id": "cmdi-07",
+  "name": "Option Smuggling to System Binary",
+  "category": "Command Injections",
+  "difficulty": "advanced",
+  "notes": "Modeled training scenario placeholder for isolated authorized testing."
+}

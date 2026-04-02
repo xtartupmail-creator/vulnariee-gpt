@@ -1,0 +1,7 @@
+{
+  "id": "sqli-05",
+  "name": "UNION-Based Injection in Export Builder",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sqli-13",
+  "name": "Out-of-Band DNS SQL Injection Pattern",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

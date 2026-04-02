@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-10",
+  "name": "Locale Parameter Injection Abuse",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

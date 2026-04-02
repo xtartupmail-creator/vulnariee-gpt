@@ -1,0 +1,7 @@
+{
+  "id": "nosqli-05",
+  "name": "NoSQL Injection in Tenant Scoping",
+  "category": "NOSQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-13",
+  "name": "Request Smuggling via Header Folding",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

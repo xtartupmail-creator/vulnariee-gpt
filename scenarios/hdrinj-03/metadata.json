@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-03",
+  "name": "Forwarded Header Trust Injection",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

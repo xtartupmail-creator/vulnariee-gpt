@@ -1,0 +1,7 @@
+{
+  "id": "urlpi-18",
+  "name": "Path Segment/Query Mix Injection",
+  "category": "URLParamInjection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

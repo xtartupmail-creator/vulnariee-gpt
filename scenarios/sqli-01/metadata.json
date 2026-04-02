@@ -1,0 +1,7 @@
+{
+  "id": "sqli-01",
+  "name": "Stacked Query Injection in Report Filters",
+  "category": "SQLI",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}

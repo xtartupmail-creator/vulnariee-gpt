@@ -1,0 +1,7 @@
+{
+  "id": "hdrinj-01",
+  "name": "CRLF Response Header Injection",
+  "category": "Header Injection",
+  "difficulty": "advanced",
+  "notes": "Modeled placeholder for authorized local testing."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "xss-01",
+  "name": "Stored XSS via Markdown Rendering Chain",
+  "category": "XSS",
+  "difficulty": "advanced",
+  "notes": "Intentionally vulnerable benchmark scenario for authorized local testing only."
+}
